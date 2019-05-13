@@ -2,7 +2,7 @@
 
 from random import randint #Importa a função de gerar números aleatórios<3
 
-print("Olá 1info2!")
+print("Jodo de Dados")
 
 dado1 = randint(1, 6) #Gera um número entre 1 e 6 aleatoriamente<3
 print("Dado 1: ",dado1) 
